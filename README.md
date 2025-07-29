@@ -15,6 +15,7 @@ snake.py: Contains the Snake class responsible for snake behavior
 food.py: Contains the Food class to handle food placement
 scoreboard.py: Contains the Scoreboard class to manage scoring and display
 
+
 ## 📸 Preview
 <img width="747" height="562" alt="image" src="https://github.com/user-attachments/assets/4291ae4b-99d1-44ad-8b55-4b47586b9846" />
 <img width="776" height="817" alt="image" src="https://github.com/user-attachments/assets/6683b564-9c54-46ce-a70c-24a90ad28266" />
