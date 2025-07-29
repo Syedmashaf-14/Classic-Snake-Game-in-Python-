@@ -2,18 +2,18 @@
 A classic Snake Game built using Python’s turtle module. This project includes modular code structure with separate classes for the snake, food, and scoreboard to ensure clean and maintainable logic. The game features collision detection, score tracking, screen boundaries, and responsive controls.
 
 ## Features
-Smooth snake movement with arrow keys (Up, Down, Left, Right)
-Food spawns at random locations
-Score increases with each food eaten
-Snake grows after eating food
-Game over when hitting the wall or itself
-Modular OOP structure with Snake, Food, and Scoreboard classes
+1.Smooth snake movement with arrow keys (Up, Down, Left, Right)
+2.Food spawns at random locations
+3.Score increases with each food eaten
+4.Snake grows after eating food
+5.Game over when hitting the wall or itself
+6.Modular OOP structure with Snake, Food, and Scoreboard classes
 
 ## Project Structure
-main.py: Runs the game loop and handles interaction
-snake.py: Contains the Snake class responsible for snake behavior
-food.py: Contains the Food class to handle food placement
-scoreboard.py: Contains the Scoreboard class to manage scoring and display
+1.main.py: Runs the game loop and handles interaction
+2.snake.py: Contains the Snake class responsible for snake behavior
+3.food.py: Contains the Food class to handle food placement
+4.scoreboard.py: Contains the Scoreboard class to manage scoring and display
 
 
 ## 📸 Preview
